@@ -53,7 +53,8 @@ This is a web based application developed for health related telugu based websit
 
  
  ##earthbot -
- ![bhargav p7](https://user-images.githubusercontent.com/118345920/207549456-8dfaed68-7d1c-4670-a501-560294276ef3.png)
+ ![bhargav p0000](https://user-images.githubusercontent.com/118345920/207552410-a56b87eb-be5d-4c79-bdac-f3b38f507991.png)
+
 
  
  
