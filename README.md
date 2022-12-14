@@ -11,32 +11,47 @@ This is a web based application developed for health related telugu based websit
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About,services,gallery,blog, Contactus, Menu, health topics and health related information etc.
+- Has collection of many web pages including Home, About,services,gallery,blog, Contact us, health topics and health related information etc.
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
+ 
+ ##Home -   
+ ![bhargav p1](https://user-images.githubusercontent.com/118345920/207547060-8091d67d-af68-4e64-9754-c159b683a3ee.png)
 
- 📸![Screenshot 2022-03-07 090754](https://user-images.githubusercontent.com/98517345/156963750-f5d694b6-a371-4b41-817f-22c8291b37da.jpg)
+       
+       
+ ##About - 
+ ![bhargav p2](https://user-images.githubusercontent.com/118345920/207547485-694bef58-4ff8-4fcb-8547-6610f75794be.png)
 
+ 
+ 
+##Services-
+ ![bhargav p3](https://user-images.githubusercontent.com/118345920/207547989-59d3b865-d9fc-4762-b452-948d8f218057.png)
 
+      
+      
+##Gallery -
+  ![bhargav p4](https://user-images.githubusercontent.com/118345920/207548263-e140f1cb-03a6-4978-9ed7-c49a508e4010.png)
 
-   
+  
+ ##Blog -
+ ![bhargav p5](https://user-images.githubusercontent.com/118345920/207548538-3f432ffd-feb5-4e40-95eb-774d520b040c.png)
 
-### About Us -
+ 
+ 
+ ##Contact -
+ ![bhargav p6](https://user-images.githubusercontent.com/118345920/207549018-2ed8eb4d-fdf1-43e9-86d3-898e92ed32df.png)
 
+ 
+ ##earthbot -
+ ![bhargav p7](https://user-images.githubusercontent.com/118345920/207549456-8dfaed68-7d1c-4670-a501-560294276ef3.png)
 
-
-![Screenshot 2022-03-07 090859](https://user-images.githubusercontent.com/98517345/156963803-135e9564-ca95-458e-9074-0d7aa2f7d586.jpg)
-
-
-### Privacy policy -
-
-
-![Screenshot 2022-03-07 090943](https://user-images.githubusercontent.com/98517345/156963849-e8ead038-b9ea-4320-9165-9f99cf00d9d2.jpg)
-
-
-
+ 
+ 
+ 
+ 
 ## Tech Stack 💻
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
