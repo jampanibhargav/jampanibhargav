@@ -47,7 +47,8 @@ This is a web based application developed for health related telugu based websit
  
  
  ##Contact -
- ![bhargav p6](https://user-images.githubusercontent.com/118345920/207549018-2ed8eb4d-fdf1-43e9-86d3-898e92ed32df.png)
+ ![bhargav p5](https://user-images.githubusercontent.com/118345920/207550989-8d2bb19e-cc6b-4f37-9dde-379188ef6e6c.png)
+
 
  
  ##earthbot -
