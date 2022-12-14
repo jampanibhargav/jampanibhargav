@@ -42,7 +42,8 @@ This is a web based application developed for health related telugu based websit
 
   
  ##Blog -
- ![bhargav p5](https://user-images.githubusercontent.com/118345920/207548538-3f432ffd-feb5-4e40-95eb-774d520b040c.png)
+  ![bhargav p0](https://user-images.githubusercontent.com/118345920/207551857-d22fdaf0-4f53-472d-93bb-725f0567ae1c.png)
+
 
  
  
